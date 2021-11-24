@@ -1,0 +1,14 @@
+{
+  "name": "YouTube-b-Auth",
+  "version": "1.0.0",
+  "main": "index.js",
+    "license": "MIT",
+    "scripts": {
+    "start": "node index.js",
+  },
+  "dependencies": {
+"express": "",
+" request":""
+},
+  "devDependencies": {}
+}
