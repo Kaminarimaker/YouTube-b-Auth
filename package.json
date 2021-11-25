@@ -7,8 +7,8 @@
     "start": "node index.js",
   },
   "dependencies": {
-"express": "",
-" request":""
+"express": "4.17.1",
+" request":"2.88.2"
 },
   "devDependencies": {}
 }
